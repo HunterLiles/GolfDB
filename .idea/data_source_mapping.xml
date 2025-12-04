@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/queries/CreatingTables.sql" value="085630e4-f75c-4423-a035-bccf910c90b1" />
+    <file url="file://$PROJECT_DIR$/queries/HCProcedure.sql" value="085630e4-f75c-4423-a035-bccf910c90b1" />
+    <file url="file://$PROJECT_DIR$/queries/InsertCourses.sql" value="085630e4-f75c-4423-a035-bccf910c90b1" />
+    <file url="file://$PROJECT_DIR$/queries/InsertRound.sql" value="085630e4-f75c-4423-a035-bccf910c90b1" />
+  </component>
+</project>
